@@ -7,3 +7,5 @@
 * Garlic
 * Paprika
 * Pepper
+
+![seafood paella](../images/dish5img.jpg)
