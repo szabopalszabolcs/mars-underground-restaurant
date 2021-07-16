@@ -1,6 +1,6 @@
 # Crispy Chicken Sandwich
 
-![Crispy Chicken Sandwich](./images/dish2.jpg)
+![Crispy Chicken Sandwich](../images/dish2.jpg)
 
 - Crispy Chicken Fillet
 - Potato Roll
