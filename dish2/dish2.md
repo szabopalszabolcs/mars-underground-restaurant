@@ -1,5 +1,6 @@
-# Sandwich cu snitel de pui
+# Crispy Chicken Sandwich
 
-snitel de pui
-cartofi prajiti
-varza
+- Crispy Chicken Fillet
+- Potato Roll
+- Crinkle Cut Pickle
+- Salted Butter
