@@ -1,3 +1,3 @@
 # mars-underground-restaurant
 
-[MENU](./main.md)
+[MAIN](./main.md)
