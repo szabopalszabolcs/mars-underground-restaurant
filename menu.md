@@ -15,4 +15,8 @@
 * Cuba libre (TO DO)
 * 
 * [Mojito Perfecto](./cocktails/cocktail3.md)
+<<<<<<< HEAD
 * [Mojito](./cocktails/cocktail1.md)
+=======
+* [Tequila sunrise](./cocktails/cocktail4.md)
+>>>>>>> d3f2e769ca639fd71d067cff2deaba36a86e84a8
