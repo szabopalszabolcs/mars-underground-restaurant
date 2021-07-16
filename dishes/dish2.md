@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Crispy Chicken Sandwich**
 ![Crispy Chicken Sandwich](../images/dish2.jpg)
 ## Ingredients
