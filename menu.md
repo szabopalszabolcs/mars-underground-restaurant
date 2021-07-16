@@ -13,5 +13,6 @@
 ## Cocktails:
 
 * Cuba libre (TO DO)
-* 
+* [Mojito](./cocktails/cocktail1.md)
 * [Mojito Perfecto](./cocktails/cocktail3.md)
+* [Tequila sunrise](./cocktails/cocktail4.md)
