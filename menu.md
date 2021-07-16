@@ -13,3 +13,5 @@
 ## Cocktails:
 
 * Cuba libre (TO DO)
+* 
+* [Mojito Perfecto](./cocktails/cocktail3.md)
