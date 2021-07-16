@@ -15,3 +15,4 @@
 * Cuba libre (TO DO)
 * 
 * [Mojito Perfecto](./cocktails/cocktail3.md)
+* [Mojito](./cocktails/cocktail1.md)
