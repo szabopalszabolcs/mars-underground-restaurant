@@ -9,3 +9,5 @@
 * maize
 * green peas
 * yellow onion and garlic
+
+![Vegetable Soup](../images/dish3.jpg)
