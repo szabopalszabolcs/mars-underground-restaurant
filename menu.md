@@ -9,3 +9,7 @@
 * [Potato Stew](dishes/dish4.md)
 * [Seafood Paella](./dishes/dish5.md)
 * [Pizza](./dishes/dish6.md)
+
+## Cocktails:
+
+* Cuba libre (TO DO)
