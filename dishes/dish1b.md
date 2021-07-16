@@ -1,6 +1,6 @@
-# ingredients
-
-pasta
-tomato sauce
-water
-salt
+# **Pasta**
+## Ingredients
+* pasta
+* tomato sauce
+* water
+* salt

@@ -1,6 +1,6 @@
-# Vegetable Soup
+# **Vegetable Soup**
 
-### Ingredients:
+## Ingredients:
 * carrot
 * celery
 * tomatoes
