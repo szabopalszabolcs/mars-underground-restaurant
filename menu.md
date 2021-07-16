@@ -8,4 +8,4 @@
 * [Vegetable Soup](./dishes/dish3.md)
 * Dish4 (TO DO)
 * Dish5 (TO DO)
-* Dish6 (TO DO)
+* [Pizza](./dishes/dish6.md)
