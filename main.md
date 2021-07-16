@@ -5,7 +5,11 @@ Welcome to the best restaurant on the red plannet and the most exotic place in t
 ## Contents:
 
 - [About](./about.md)
-- [Menu]()
+- [Menu](./menu.md/)
 - [The Team]()
 - [Contact]()
 
+## Gallery:
+
+- Hyper Bar:  
+![Mars Underground Restaurant](./images/mars-underground-restaurant.jpg)
