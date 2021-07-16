@@ -9,5 +9,5 @@
 * 1 parsley bundle
 * salt and papper
 
-![poteto stew](/images/img1.jpg)
+![poteto stew](../images/dish4img.jpg)
 
