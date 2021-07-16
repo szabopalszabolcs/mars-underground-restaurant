@@ -9,3 +9,7 @@
 * Dish4 (TO DO)
 * [Seafood Paella](./dishes/dish5.md)
 * [Pizza](./dishes/dish6.md)
+
+## Cocktails:
+
+* Cuba libre (TO DO)
