@@ -4,7 +4,7 @@ Welcome to the best restaurant on the red plannet and the most exotic place in t
 
 ## Contents:
 
-- [About](./aboot.md)
+- [About](./about.md)
 - [Menu](./menu.md/)
 - [The Team]()
 - [Contact](./contact.md)
