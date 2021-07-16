@@ -7,3 +7,6 @@
 * flour
 * water
 * egg
+
+
+![Pizza](../images/dish6.png)
