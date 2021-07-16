@@ -5,3 +5,4 @@ We are glad that you want to work with us! Check out what job openings we are of
 ## Current job offerings:
 
 - [Waiter](./job-openings/waiter-job1.md)
+- [Cook](./job-openings/cook-job1.md)
