@@ -2,8 +2,8 @@
 
 ## Dishes:
 
-* Dish1a (TO DO)
-* Dish1b (TO DO)
+* [Burger](./dishes/dish1a.md)
+* [Pasta](./dishes/dish1b.md)
 * [Crispy Chicken Sandwich](./dishes/dish2.md)
 * [Vegetable Soup](./dishes/dish3.md)
 * Dish4 (TO DO)
