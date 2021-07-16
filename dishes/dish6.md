@@ -1,8 +1,9 @@
-# pizza ingredients
+# **Pizza**
 
-tomato sauce
-salami
-vegetables
-flour
-water
-egg
+## Ingredients:
+* tomato sauce
+* salami
+* vegetables
+* flour
+* water
+* egg
