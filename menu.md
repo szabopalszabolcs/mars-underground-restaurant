@@ -2,7 +2,7 @@
 
 ## Dishes:
 
-* [Burger](./dishes/dish1a.md)
+* [Burger](./dishes/dish1.md)
 ![burger](./images/dish1-menu.jpg)
 * [Pasta](./dishes/dish1b.md)
 * [Crispy Chicken Sandwich](./dishes/dish2.md)
